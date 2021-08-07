@@ -6,3 +6,5 @@ No Code in this repo only documentation and reference to external or internal ex
 ## Input Validation
 ### @Valid
 ### Validation by custom annotation
+    https://www.baeldung.com/spring-mvc-custom-validator
+    
