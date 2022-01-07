@@ -1,12 +1,17 @@
 # Learning
 No Code in this repo only documentation and reference to external or internal example
 
+Enter in aplphabatical order
+
 | TODO                          | Implemented/Documented        | Link         |
 | -----------                   | -----------                   | -------------|
 |                               | Input Validation              | https://github.com/sudhamohangithub/InputValidation |
 | MapStruct                     |                               | |
 | Markdown                      |                               | |
-| Paragraph                     |                               | |
+|                               | Many To Many Mapping          | |
+|                               | .xlsx parsing N validating    | |
+| XCA 
+| 
 
 ## TODO
 ## Library
