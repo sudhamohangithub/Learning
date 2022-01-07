@@ -4,28 +4,23 @@ No Code in this repo only documentation and reference to external or internal ex
 Enter in aplphabatical order
 
 | TODO                          | Implemented/Documented        | Link         |
-| -----------                   | -----------                   | -------------|
+| :-----------                  | :-----------                  | :-------------|
+| apache poi |||
+| flyway |||
+| freemarker |||
 |                               | Input Validation              | https://github.com/sudhamohangithub/InputValidation |
+| Karate |||
+| H2 |||
+| Lombok |||
 | MapStruct                     |                               | |
 | Markdown                      |                               | |
 |                               | Many To Many Mapping          | |
+| Olingo | 
+| RestTemplate |||
+| SpringBoot Mail |||
 |                               | .xlsx parsing N validating    | |
-| XCA 
-| 
-
-## TODO
-## Library
-### mapStruct
-  https://mapstruct.org/
-  
-## Input Validation
-### @Valid
-### Validation by custom annotation
-    https://www.baeldung.com/spring-mvc-custom-validator
-    
-## many to many mapping
-## Excel .xlsx file parsing and validating
-## Tools
-### xca https://hohnstaedt.de/xca/ creating and managing X.509 certificates
-
+| XCA |||
+| WebClient|||
+| Wiremock|||
+| Zalando |||
     
