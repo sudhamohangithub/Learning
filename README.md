@@ -6,10 +6,13 @@ Enter in aplphabatical order
 | TODO                          | Implemented/Documented        | Link         |
 | :-----------                  | :-----------                  | :-------------|
 | apache poi |||
+| dynastrace |||
 | flyway |||
 | freemarker |||
 |                               | Input Validation              | https://github.com/sudhamohangithub/InputValidation |
+| Jmeter |||
 | Karate |||
+| Hazelcast |||
 | H2 |||
 | Lombok |||
 | MapStruct                     |                               | |
@@ -17,7 +20,9 @@ Enter in aplphabatical order
 |                               | Many To Many Mapping          | |
 | Olingo | 
 | RestTemplate |||
+| Splunk |||
 | SpringBoot Mail |||
+| SpringBoot Stream |||
 |                               | .xlsx parsing N validating    | |
 | XCA |||
 | WebClient|||
