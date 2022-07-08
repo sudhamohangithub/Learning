@@ -10,7 +10,7 @@ Enter in aplphabatical order
 | flyway |||
 | freemarker |||
 |                               | Input Validation              | https://github.com/sudhamohangithub/InputValidation |
-| Java ||| 
+| Java |Java17|| 
 | Jmeter |||
 | Karate |||
 | Hazelcast |||
@@ -22,6 +22,7 @@ Enter in aplphabatical order
 | Olingo | 
 | RestTemplate |||
 | Splunk |||
+| SpringBoot| SpringBoot3.0|https://spring.io/blog/2022/05/24/preparing-for-spring-boot-3-0 |
 | SpringBoot Mail |||
 | SpringBoot Stream |||
 |                               | .xlsx parsing N validating    | |
