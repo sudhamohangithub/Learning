@@ -25,6 +25,7 @@ Enter in aplphabatical order
 | SpringBoot| SpringBoot3.0|https://spring.io/blog/2022/05/24/preparing-for-spring-boot-3-0 |
 | SpringBoot Mail |||
 | SpringBoot Stream |||
+| SSL |||
 |                               | .xlsx parsing N validating    | |
 | XCA |||
 | WebClient|||
